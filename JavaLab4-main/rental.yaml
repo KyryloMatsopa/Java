@@ -1,0 +1,18 @@
+---
+car:
+  make: "Toyota"
+  vin: "1HGCM82633A123456"
+  number: "AB1234CD"
+  releaseDate: "2020-01-15"
+  mileage: 20000
+renter:
+  lastName: "John"
+  firstName: "Doe"
+  identificationDocument: "ID123456"
+  driverLicense: "DL123456"
+pickupLocation: "Kyiv"
+dropoffLocation: "Lviv"
+startDate: "2024-10-01"
+endDate: "2024-10-10"
+pricePerDay: 50.0
+totalPrice: 500.0

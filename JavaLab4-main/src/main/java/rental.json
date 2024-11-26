@@ -1,0 +1,21 @@
+{
+  "car": {
+    "brand": "Toyota",
+    "vin": "1HGCM82633A123456",
+    "licensePlate": "AB1234CD",
+    "releaseDate": "2020-01-15",
+    "mileage": 20000
+  },
+  "renter": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "idDocument": "ID123456",
+    "drivingLicense": "DL123456"
+  },
+  "pickupLocation": "Kyiv",
+  "dropoffLocation": "Lviv",
+  "startDate": "2024-10-01",
+  "endDate": "2024-10-10",
+  "pricePerDay": 50.0,
+  "totalPrice": 500.0
+}
