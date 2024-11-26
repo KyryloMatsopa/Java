@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab0.Variant8Test" tests="32" skipped="0" failures="0" errors="0" timestamp="2024-11-25T22:40:44" hostname="MacBook-Pro-121.local" time="0.113">
+  <properties/>
+  <testcase name="testBothOdd[0](3, 5, true)" classname="lab0.Variant8Test" time="0.006"/>
+  <testcase name="testBothOdd[1](2, 3, false)" classname="lab0.Variant8Test" time="0.0"/>
+  <testcase name="testBothOdd[2](4, 6, false)" classname="lab0.Variant8Test" time="0.001"/>
+  <testcase name="testColumnElements[0]([[I@14f232c4, 2, [I@13bc8645)" classname="lab0.Variant8Test" time="0.004"/>
+  <testcase name="testColumnElements[1]([[I@26adfd2d, 3, [I@3336e6b6)" classname="lab0.Variant8Test" time="0.0"/>
+  <testcase name="testEvenPairs[0]([I@205d38da, (6, 8) (4, 6) (2, 4))" classname="lab0.Variant8Test" time="0.001"/>
+  <testcase name="testEvenPairs[1]([I@6f3187b0, (12, 14) (10, 12))" classname="lab0.Variant8Test" time="0.0"/>
+  <testcase name="testInvalidColumnElements[0]([[I@48b67364, 3)" classname="lab0.Variant8Test" time="0.004"/>
+  <testcase name="testInvalidLargestSquare[0](-1)" classname="lab0.Variant8Test" time="0.002"/>
+  <testcase name="testInvalidLargestSquare[1](0)" classname="lab0.Variant8Test" time="0.001"/>
+  <testcase name="testInvalidPreviousDate[0](32, 13)" classname="lab0.Variant8Test" time="0.003"/>
+  <testcase name="testInvalidPreviousDate[1](0, 2)" classname="lab0.Variant8Test" time="0.001"/>
+  <testcase name="testInvalidPreviousDate[2](1, 0)" classname="lab0.Variant8Test" time="0.0"/>
+  <testcase name="testInvalidProductInRange[0](5, 3)" classname="lab0.Variant8Test" time="0.003"/>
+  <testcase name="testInvalidProductInRange[1](10, 10)" classname="lab0.Variant8Test" time="0.0"/>
+  <testcase name="testInvalidSwapDigits[0](123)" classname="lab0.Variant8Test" time="0.0"/>
+  <testcase name="testInvalidSwapDigits[1](9)" classname="lab0.Variant8Test" time="0.0"/>
+  <testcase name="testInvalidSwapDigits[2](-45)" classname="lab0.Variant8Test" time="0.001"/>
+  <testcase name="testLargestSquare[0](17, 4)" classname="lab0.Variant8Test" time="0.001"/>
+  <testcase name="testLargestSquare[1](10, 3)" classname="lab0.Variant8Test" time="0.001"/>
+  <testcase name="testLargestSquare[2](1, 1)" classname="lab0.Variant8Test" time="0.001"/>
+  <testcase name="testPreviousDate[0](1, 3, [I@5f0fd5a0)" classname="lab0.Variant8Test" time="0.006"/>
+  <testcase name="testPreviousDate[1](15, 3, [I@3224a577)" classname="lab0.Variant8Test" time="0.0"/>
+  <testcase name="testPreviousDate[2](1, 1, [I@748741cb)" classname="lab0.Variant8Test" time="0.001"/>
+  <testcase name="testProductInRange[0](1, 4, 24)" classname="lab0.Variant8Test" time="0.004"/>
+  <testcase name="testProductInRange[1](2, 3, 6)" classname="lab0.Variant8Test" time="0.0"/>
+  <testcase name="testSortTwoNumbers[0](5, 2, [I@1b266842)" classname="lab0.Variant8Test" time="0.001"/>
+  <testcase name="testSortTwoNumbers[1](2, 5, [I@42b3b079)" classname="lab0.Variant8Test" time="0.001"/>
+  <testcase name="testSortTwoNumbers[2](10, 10, [I@4dd6fd0a)" classname="lab0.Variant8Test" time="0.001"/>
+  <testcase name="testSwapDigits[0](23, 32)" classname="lab0.Variant8Test" time="0.001"/>
+  <testcase name="testSwapDigits[1](45, 54)" classname="lab0.Variant8Test" time="0.001"/>
+  <testcase name="testSwapDigits[2](12, 21)" classname="lab0.Variant8Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
