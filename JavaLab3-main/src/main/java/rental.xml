@@ -1,0 +1,21 @@
+<Rental>
+    <car>
+        <brand>Toyota</brand>
+        <vin>1HGCM82633A123456</vin>
+        <licensePlate>AB1234CD</licensePlate>
+        <releaseDate>2020-01-15</releaseDate>
+        <mileage>20000</mileage>
+    </car>
+    <renter>
+        <firstName>John</firstName>
+        <lastName>Doe</lastName>
+        <idDocument>ID123456</idDocument>
+        <drivingLicense>DL123456</drivingLicense>
+    </renter>
+    <pickupLocation>Kyiv</pickupLocation>
+    <dropoffLocation>Lviv</dropoffLocation>
+    <startDate>2024-10-01</startDate>
+    <endDate>2024-10-10</endDate>
+    <pricePerDay>50.0</pricePerDay>
+    <totalPrice>500.0</totalPrice>
+</Rental>
